@@ -1,5 +1,8 @@
-## Hi there 👋
+### Cloud Architecture | Data Engineering & Analytics | IT Infrastructure
 
+Profesional con más de tres décadas gestionando el ciclo de vida completo de la tecnología y el negocio. Especializado en diseño de arquitecturas de datos (Microsoft Fabric, Medallion Architecture), analítica empresarial, optimización de infraestructura cloud y aseguramiento de la calidad del dato.
+
+Actualmente consolidando competencias avanzadas mediante la especialización oficial **Arquitectura y Desarrollo de Sistemas Cloud & Data Engineering (IFCD0078)**.
 <!--
 **mangeldelcampo/mangeldelcampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
